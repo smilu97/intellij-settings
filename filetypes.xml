@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="CodeListItem.tsx" type="AUTO_DETECTED" />
+      <mapping pattern="IfUnAuthed.tsx" type="AUTO_DETECTED" />
       <mapping ext="tsx'" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
