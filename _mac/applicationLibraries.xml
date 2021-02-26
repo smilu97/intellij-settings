@@ -1,0 +1,26 @@
+<application>
+  <component name="libraryTable">
+    <library name="kakao" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_developers.kakao.com_sdk_js_kakao.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_developers.kakao.com_sdk_js_kakao.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="naveridlogin_js_sdk_2.0.2" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_static.nid.naver.com_js_naveridlogin_js_sdk_2.0.2.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_static.nid.naver.com_js_naveridlogin_js_sdk_2.0.2.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
